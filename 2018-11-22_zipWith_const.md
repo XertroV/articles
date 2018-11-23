@@ -7,7 +7,7 @@ Although initially it may look like one of those random combinations of values
 that typecheck but don’t do anything useful (`(>>=) (>>=)`, anyone?), it
 encapsulates a powerful pattern that I found useful many times to make lists
 useful as data structures. Being aware of how it works made me find a lot of use
-cases, and I think everyone should know about this little peal!
+cases, and I think everyone should know about this little pearl!
 
 A note on my frequent mentions of »works on infinite lists«. This is not just
 about working with infinite data, which I agree is not that often the case.
